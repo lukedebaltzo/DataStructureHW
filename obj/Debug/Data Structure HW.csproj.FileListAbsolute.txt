@@ -1,0 +1,138 @@
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\Data Structure HW.dll.config
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\Data Structure HW.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\Data Structure HW.pdb
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\csc.exe
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\csc.exe.config
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\csc.rsp
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\csi.exe
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\csi.exe.config
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\csi.rsp
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.AppContext.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Console.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\vbc.exe
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\vbc.exe.config
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\vbc.rsp
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Helpers.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Mvc.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Razor.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Razor.xml
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.xml
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Helpers.xml
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\System.Web.Mvc.xml
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.csprojAssemblyReference.cache
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.csproj.CoreCompileInputs.cache
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.csproj.CopyComplete
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.dll
+C:\Users\Sydnee Christensen\source\repos\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.pdb
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\Data Structure HW.dll.config
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\Data Structure HW.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\Data Structure HW.pdb
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\csc.exe
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\csc.exe.config
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\csc.rsp
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\csi.exe
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\csi.exe.config
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\csi.rsp
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.AppContext.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Console.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.Compression.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.IO.Pipes.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Claims.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.ValueTuple.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.XPath.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\vbc.exe
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\vbc.exe.config
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\vbc.rsp
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\VBCSCompiler.exe
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Helpers.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Mvc.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Razor.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Deployment.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Razor.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Razor.xml
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.xml
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Deployment.xml
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Webpages.Razor.xml
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Helpers.xml
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\System.Web.Mvc.xml
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.csprojAssemblyReference.cache
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.csproj.CoreCompileInputs.cache
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.csproj.CopyComplete
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.dll
+C:\Users\allys\Downloads\Data Structure HW (1)\Data Structure HW\Data Structure HW\obj\Debug\Data Structure HW.pdb
